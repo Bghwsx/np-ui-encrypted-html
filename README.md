@@ -1,4 +1,6 @@
 # np-ui-encrypted-html
+JS Code is encrypted.
+
 
 In console to show MDW:
 `toggleMDW();`

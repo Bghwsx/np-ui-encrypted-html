@@ -1,5 +1,5 @@
 # np-ui-encrypted-html
-JS Code is encrypted.
+JS Code is encrypted. All files in build.zip (too large files to upload individualy)
 
 In console to show Laptop:
 `toggleLaptop();`

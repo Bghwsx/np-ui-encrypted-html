@@ -16,7 +16,7 @@ In console to show Radio:
 
 ![Radio](screenshots/radio.png?raw=true "Radio")
 
-In console to show Phone:
+In console to show a Burner Phone:
 `togglePhone();`
 
 ![Phone](screenshots/phone.png?raw=true "Phone")

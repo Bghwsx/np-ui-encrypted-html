@@ -1,7 +1,7 @@
 # np-ui-encrypted-html
 JS Code is encrypted.
 
-In console to show MDW:
+In console to show Laptop:
 `toggleLaptop();`
 
 ![Laptop](screenshots/laptop.png?raw=true "Laptop")
